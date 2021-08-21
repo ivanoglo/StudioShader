@@ -1,7 +1,7 @@
 <img align="left" src="Me.jpg" width="320" /> 
 
 ```csharp
-sescer@github
+StudioShader@github
 -------------------------
 Location: Novosibirsk, Russia
 Languages: C++, Python, C#, C.
