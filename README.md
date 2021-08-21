@@ -1,3 +1,6 @@
+```zsh
+> neofetch
+```
 <img align="left" src="Me.jpg" width="320" /> 
 ```csharp
 StudioShader@github
