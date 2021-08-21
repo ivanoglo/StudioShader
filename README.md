@@ -3,17 +3,8 @@
 ```csharp
 sescer@github
 -------------------------
-OS: Ubuntu  20.04 LTS x86_64
-Shell: zsh 5.7.1
-Pronouns: He/Him
 Location: Novosibirsk, Russia
-Languages: Assembly, C, Haskell, SQL
-           Python, Promela, Prolog
-           Java, C#
-Learning: Node.js, CPP, Cybersecurity,
-          Kotlin, Scala
-Hobbies: Drawing, Anime, Gaming
-Commits: 44
-Stars: 7
-Discord: Kazuki Nagasa#4066
+Languages: C++, Python, C\#, C. Have experience in programming on Java, Kotlin, Haskell, Scala, SQL, Lean ...
+Telegram: @old_Cheech
+[And here is my latest resume](Ivan_Ogloblin.pdf)
 ```
