@@ -1,0 +1,194 @@
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{banking}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue}                              % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}
+%\usepackage{hyperref}
+\usepackage{pdfpages}%
+% if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+\usepackage{multicol}
+
+\usepackage{xcolor}
+% adjust the page margins
+\usepackage[scale=0.8,top=0.5cm, bottom=0.1cm]{geometry}
+% \usepackage[scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+\usepackage{xpatch}
+\xpatchcmd\cventry{,}{}{}{}
+
+% personal data
+
+\name{Ivan}{Ogloblin}                               % optional, remove / comment the line if not wanted
+% \address{70 Absolute Ave.}{L4Z 0A4 Mississauga}{Canada}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\vspace*{3mm}
+           % optional, remove / comment the line if not wanted
+% \phone[fixed]{+2~(345)~678~901}                    % optional, remove / comment the line if not wanted
+% \phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
+\email{studioshader2018@gmail.com}                               % optional, remove / comment the line if not wanted
+%  \homepage{linkedin.com/in/jondoe}                         % optional, remove / comment the line if not wanted
+\social[github]{StudioShader}   
+%\social[linkedin]{AlyaNovikova}
+\phone[fixed]{+7~(913)~923~87~12}
+% \extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+%photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+% \quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+	%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+	%-----       resume       ---------------------------------------------------------
+	\vspace*{-1.05mm}
+	\makecvtitle
+	\vspace*{-10mm}
+	
+	\section{Education}
+	\cventry{}{}{Saint-Petersburg State University}{Sept 2019 вЂ“ July 2023}{\hspace*{-2.5 mm} Bachelor of Science in Computer Science and Software Engineering }{}
+	{}{Related Coursework:}
+	\vspace{-1.0em}\begin{small}
+		\begin{multicols}{4}
+			\begin{itemize}
+				\item C++
+				\item Kotlin
+				\item Python
+				\item Haskell
+				\item Scala
+				\item Algorithms
+				\item Machine learning
+				\item Unix
+				\item Operating system
+				\item Algebra
+				\item Mathematical Analysis
+				\item Discrete Mathematics
+			\end{itemize}
+	\end{multicols}\end{small}
+	
+	\section{Experience}
+		\cventry{}{}{Yandex developer intern}{July - Sept 2021 \vspace{-1.0em}}{}{
+		% Detailed achievements:%
+		\begin{itemize}
+			\item  worked in two commands on backend c++/python/sql
+			\item developed support system for training scripts to work with an optimized structure for storing variable logs
+	\end{itemize}}
+	
+	\section{Projects}
+	
+	\cventry{}{}{Smashy Ninja}{2018 \vspace{-1.0em}}{}{
+		% Detailed achievements:%
+		\begin{itemize}
+			\item  
+			\url {https://play.google.com/store/apps/details?id=com.PixArt.Pouc}
+			\item
+			\url {https://github.com/StudioShader/Smashy-Ninja}
+			\item I made a mobile game with Unity 3d engine, published in Google Play, play it right now!
+			\item My sister drew all of the sprites. The hardest part was to make her do it in time.
+			\item Before this game I had about 10 similar unfinished projects. This is the only one that looked publishable.
+	\end{itemize}}
+
+	\cventry{}{}{Archiver}{ 2019 \vspace{-1.0em}}{}{
+		% Detailed achievements:%
+		\begin{itemize}
+			\item  
+			\url {https://github.com/StudioShader/huffman-archiver}
+			\item Program implemented in \textbf {C++} for data compression and decompression.
+			\item Used Huffman algorithm in implementation.
+	\end{itemize}}
+	% \vspace{1.0em}
+	
+%	\cventry{}{}{Multithreading Paint
+%	}
+%	{July 2018 \vspace{-1.0em}}{}{
+%		% Detailed achievements:%
+%		\begin{itemize}
+%			\itemG\url{https://github.com/AlyaNovikova/Multithreading-Paint}
+%			\item Programm implemented in \textbf{Java} with the use of multithreading.
+%			\item Multithreading Paint is a drawing program that allows multiple users to sketch on the same canvas simultaneously.
+%	\end{itemize}}
+	
+	
+
+	\cventry{}{}{DoNotExplode}{2019 \vspace{-1.0em}}{}{
+		% Detailed achievements:%
+		\begin{itemize}
+			\item  
+			\url {https://github.com/StudioShader/DoNotExplode}
+			\item A billet for my next game
+			\item Procedurally generate self-intersecting path for ball to bounce with a certain rules
+	\end{itemize}}
+	
+	\cventry{}{}{ML-projects}{2019 \vspace{-1.0em}}{}{
+		% Detailed achievements:%
+		\begin{itemize}
+			\item  
+			\url {https://github.com/StudioShader/ML-Projects}
+			\item I included implementation of Ant-colony and Genetic algorithms for "Travelling salesman problem"
+			\item also contains realisation of K-means, SVM, Clustering and neural network algorithms
+	\end{itemize}}
+
+	\cventry{}{}{RTV-redactor}{2020 \vspace{-1.0em}}{}{
+		% Detailed achievements:%
+		\begin{itemize}
+			\item  
+			\url {https://github.com/makselivanov/RTV_redactor}
+			\item Working with tracing algorithms, writing a classifier
+			\item I wrote algorithm of recognition with ideas of interpolation angles and point structures
+	\end{itemize}}
+
+	\section{Skills}
+	\begin{itemize}
+		\item C++, Python, C\#, C. Have experience in programming on Java, Kotlin, Haskell, Scala, SQL, Lean
+		\item Git, Linux, Unity3D, SVN, Blender(3d modeling), protobuff, Shiny.
+		\item Russian (Native), English (Upper-Intermediate)
+	\end{itemize}
+	
+	
+	\section{Achievements}
+	
+	\cventry{}{}{Open olympiads}{\vspace{-1.0em}}{}{
+		% Detailed achievements:%
+		\begin{itemize}
+			\item \href{https://diploma.rsr-olymp.ru/files/rsosh-diplomas-static/compiled-storage-2018/by-code/117272475400/color.pdf}{Top 60 out of 1100 in "Open olympiad in Mathematics" 2018 and 2016}
+			\item \href{https://diploma.rsr-olymp.ru/files/rsosh-diplomas-static/compiled-storage-2018/by-code/117292234832/color.pdf}{Top 174 out of 1404 in "Open olympiad in Mathematics" 2017}
+			\item \href{https://diploma.rsr-olymp.ru/files/rsosh-diplomas-static/compiled-storage-2018/by-code/117272475400/color.pdf}{Top 109 out of 1103 in "Open olympiad in Physics" 2018}
+	\end{itemize}}
+	
+	\cventry{}{}{International scientific school conference "XVIII Kolmogorov Readings" }{2019 \vspace{-1.0em}}{}{
+		% Detailed achievements:%
+		\begin{itemize}
+			\item I took \href{https://internat.msu.ru/media/uploads/2018/05/pobediteli-informatika-na-sajt.pdf}{\textcolor{blue}{third place}} in the discipline of computer science and mathematical modeling
+			\item The subject of the project was to construct model for optimal qualitative assessment of hospitals
+	\end{itemize}}
+	% \vspace{-1.0em}
+	
+	% \vspace{1.0em}
+	
+	
+	%\section{Languages}
+	%\begin{itemize}
+	%	\item Russian (Native), English (Upper-Intermediate)
+	%\end{itemize}
+	
+	
+	
+	
+	
+	
+\end{document}
