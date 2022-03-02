@@ -1,0 +1,92 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% "ModernCV" CV and Cover Letter
+% LaTeX Template
+% Version 1.3 (29/10/16)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Xavier Danaux (xdanaux@gmail.com) with modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same 
+% directory as this .tex file. These files provide the resume style and themes 
+% used for structuring the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+\moderncvstyle{casual} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+
+\usepackage[scale=0.75]{geometry} % Reduce document margins
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Ivan} % Your first name
+\familyname{Ogloblin} % Your last name
+
+% All information in this block is optional, comment out any lines you don't need
+\title{Curriculum Vitae}
+\email{studioshader2018@gmail.com}
+%\homepage{staff.org.edu/~jsmith}{staff.org.edu/$\sim$jsmith} % The first argument is the url for the clickable link, the second argument is the url displayed in the template - this allows special characters to be displayed such as the tilde in this example
+%\extrainfo{}
+\photo[70pt][0.4pt]{pictures/picture} % The first bracket is the picture height, the second is the thickness of the frame around the picture (0pt for no frame)
+\quote{"A witty and playful quotation" - John Smith}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	COVER LETTER
+%----------------------------------------------------------------------------------------
+
+% To remove the cover letter, comment out this entire block
+
+\clearpage
+
+\recipient{Internship committee}{USC/ISI} % Letter recipient
+\date{\today} % Letter date
+\opening{Dear Sir or Madam,} % Opening greeting
+\closing{Sincerely yours,} % Closing phrase
+%\enclosure[Attached]{curriculum vit\ae{}} % List of enclosed documents
+
+\makelettertitle{}% Print letter title
+		This internship is the perfect opportunity for me to get into the quantum computing. This is my top priority as I want to build my career in this industry.\\
+There are so many ways of improving the field of quantum computing, and right now I am interested in almost all of its aspects. However, I consider quantum information theory to be my strong point and my main goal is to advance my theoretical and research abilities in understanding quantum algorithms and principles on which they are built.\\
+I am familiar with both logical quantum circuits and annealing D'Wave systems. They both intrigue me greatly and have their own applications and theories in which I am eager to dig deeper, as I already have experience in understanding algorithms for both structures.\\
+In this internship, I also hope to advance as much as possible towards the study of quantum physics and quantum chemistry simulations, since it seems to me that this is where the maximum application of quantum computing lies.\\
+I also really hope to get a general picture of the structure of quantum computers from a physical point of view. Although the name of my bachelor's specialization does not contain the word physics, I still really want to be close to the physical side of the process and I can feel that I would have an intuition for it. It seems that in order to understand how and where we can and should look for an application of a quantum computer, we need to understand the essence of the opportunities that it provides. I will pass “the quantum information theory” and “quantum mechanics” just this spring, and I hope that these courses will answer some of my questions. But to see all this theory in the real world, to communicate with people with the same fervent eyes as mine, to gain the knowledge and experience of people who understand the potential behind it many times better and deeper than I do - there is no other opportunity to do this than through USC/ISI summer research internship.\\
+I understand that finding applications of QC is not the kind of task that is about depth, but rather about width. But as to my vision there are only a few same patterns that correspond to major computing tasks as linear programming, QUBO (quadratic unconstrained binary optimization), matrix inversion e.t.c. For some of them algorithms already exist, for some of them not, but my goal is to find that connection.\\
+Also, I consider one of the critical benefits of this internship for me is getting connections with the leaders of the field, because after the bachelor's degree I intend to enter the Master's program in Quantum Information Science USC Viterbi. And the field is relatively new - there are only a few places in the world where I can get such a degree in such a narrow specialization. \\
+To sum up, this internship is the greatest opportunity of my life. It is the most efficient way for me to continue my path towards answering the question “where and how we can apply quantum computations”. Though I understand how difficult and challenging this question is, I really believe that not only can I advance people’s knowledge in this question, but also that this scientific field will bring the greatest benefit to humanity in the 21st century of all.
+
+%\lipsum[1-2] % Dummy text
+%lipsum[4] % Dummy text
+\vspace*{\fill}
+	\name{Ivan}{Ogloblin}
+	\address{Novoizmailovsky prospect, 16k8}{Saint-Petersburg}{ Russia }
+	\mobile{+7 (913) 923 87 12}
+	\email{studioshader2018@gmail.com}
+	\social[github]{StudioShader} 
+\makeletterclosing % Print letter signature
+\name{}{}
+
+\end{document}

@@ -16,7 +16,7 @@
 
 \usepackage{xcolor}
 % adjust the page margins
-\usepackage[scale=0.8,top=0.5cm, bottom=0.1cm]{geometry}
+\usepackage[scale=0.9,top=1.5cm, bottom=0.5cm]{geometry}
 % \usepackage[scale=0.75]{geometry}
 %\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
 %\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
@@ -26,16 +26,19 @@
 % personal data
 
 \name{Ivan}{Ogloblin}                               % optional, remove / comment the line if not wanted
+\firstname{Ivan} % Your first name
+\lastname{Ogloblin} % Your last name
+
+% All information in this block is optional, comment out any lines you don't need
+\title{Curriculum Vitae}
+
 % \address{70 Absolute Ave.}{L4Z 0A4 Mississauga}{Canada}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
 \vspace*{3mm}
            % optional, remove / comment the line if not wanted
 % \phone[fixed]{+2~(345)~678~901}                    % optional, remove / comment the line if not wanted
 % \phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
-\email{studioshader2018@gmail.com}                               % optional, remove / comment the line if not wanted
 %  \homepage{linkedin.com/in/jondoe}                         % optional, remove / comment the line if not wanted
-\social[github]{StudioShader}   
 %\social[linkedin]{AlyaNovikova}
-\phone[fixed]{+7~(913)~923~87~12}
 % \extrainfo{additional information}                 % optional, remove / comment the line if not wanted
 %photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
 % \quote{Some quote}                                 % optional, remove / comment the line if not wanted
@@ -46,13 +49,16 @@
 %\makeatother
 %\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
 
-
+%----------------------------------------------------------------------------------
+%           footer
+%----------------------------------------------------------------------------------
 % bibliography with mutiple entries
 %\usepackage{multibib}
 %\newcites{book,misc}{{Books},{Others}}
 %----------------------------------------------------------------------------------
 %            content
 %----------------------------------------------------------------------------------
+%\makecvfooter
 \begin{document}
 	%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
 	%-----       resume       ---------------------------------------------------------
@@ -81,46 +87,48 @@
 				\item Statistics
 				\item C\#
 				\item Data Bases
-				\item Quantum computing
+				\item Quantum Computing
+				\item Quantum Information
 				\item JavaScript
 				\item html and css
 			\end{itemize}
 	\end{multicols}\end{small}
 	
-	\section{Experience}
-		\cventry{}{}{Yandex developer intern}{July - Sept 2021 \vspace{-1.0em}}{}{
+	\section{Programming experience}
+		\cventry{}{}{Yandex developer intern}{July - Sept 2021\vspace{-1.0em}}{}{
 		% Detailed achievements:%
-		\begin{itemize}
-			%worked in two commands on backend c++/python/sql. Developed support system for training scripts to work with an optimized structure for storing variable logs
-			\item  worked in two commands on backend c++/python/sql
-			\item developed support system for training scripts to work with an optimized structure for storing variable logs
-		\end{itemize}}
-		\cventry{}{}{Huawei assistant engineer, developer}{October 2021 - January 2022 \vspace{-1.0em}}{}{
+		%\begin{itemize}
+			Worked in two commands on backend c++/python/sql. Developed support system for training scripts to work with an optimized structure for storing variable logs. Wrote tests for components, that were used to prepare data for recomendations neural network. Got acquainted with the concepts of services and levers. Plunged into the intricacies of communication between services and systems for transmitting information with errors for debugging.
+		}
+		%\end{itemize}}
+		\cventry{}{}{Huawei assistant engineer, developer}{October 2021 - January 2022\vspace{-1.0em}}{}{
 		% Detailed achievements:%
-		\begin{itemize}
-			\item backend C\#/.netASP/EntityFramework/Autofac + frontend 3js/react/VR
-			\item research work on handwriting recognition using convolutional network under "Human Computer Interactions"
-		\end{itemize}}
+		%\begin{itemize}
+			Worked on backend C\#/.netASP/EntityFramework/Autofac + frontend 3js/react/VR. Developed system of package communication with no delay, that alternates between http and signalR requests. \\Did research work on handwriting recognition using convolutional network under "Human Computer Interactions". Got familiar with CNN, RNN and LSTM structures.
+		%\end{itemize}
+		}
 	
 	\section{Projects}
 	
-	\cventry{}{}{Smashy Ninja}{2018 \vspace{-1.0em}}{}{
+	\cventry{}{}{Smashy Ninja}{2018\vspace{-1.0em}}{}{
 		% Detailed achievements:%
 		\begin{itemize}
 			\item  
 			\url {https://play.google.com/store/apps/details?id=com.PixArt.Pouc}
 			\item
 			\url {https://github.com/StudioShader/Smashy-Ninja}
-			\item I made a mobile game with Unity 3d engine, published in Google Play, play it right now!
-	\end{itemize}}
+	\end{itemize}
+	Back in highschool I made a mobile game with Unity 3d engine, published in Google Play, you can play it right now!
+	}
 
-	\cventry{}{}{Archiver}{ 2019 \vspace{-1.0em}}{}{
+	\cventry{}{}{Archiver}{ 2019\vspace{-1.0em}}{}{
 		% Detailed achievements:%
 		\begin{itemize}
 			\item  
 			\url {https://github.com/StudioShader/huffman-archiver}
-			\item  C++ Used Huffman algorithm in implementation for data compression and decompression.
-	\end{itemize}}
+	\end{itemize}
+	 Used Huffman algorithm in implementation for data compression and decompression.\\ You can run it now, with any C++ compiler.
+	}
 	% \vspace{1.0em}
 	
 %	\cventry{}{}{Multithreading Paint
@@ -135,40 +143,55 @@
 	
 	
 
-	\cventry{}{}{DoNotExplode}{2019 \vspace{-1.0em}}{}{
+	\cventry{}{}{DoNotExplode}{2019\vspace{-1.0em}}{}{
 		% Detailed achievements:%
 		\begin{itemize}
 			\item  
 			\url {https://github.com/StudioShader/DoNotExplode}
-			\item Procedurally generate self-intersecting path for ball to bounce with a certain rules
-	\end{itemize}}
+	\end{itemize}
+	Procedurally generate self-intersecting path for ball to bounce with a certain rules. An example of a billet for one of my game ideas. With an implementation of an interesting algorithm that I developed.
+	}
 	
-	\cventry{}{}{ML-projects}{2019 \vspace{-1.0em}}{}{
+	\cventry{}{}{ML-projects}{2019\vspace{-1.0em}}{}{
 		% Detailed achievements:%
 		\begin{itemize}
 			\item  
 			\url {https://github.com/StudioShader/ML-Projects}
-			\item I included implementation of Ant-colony and Genetic algorithms for "Travelling salesman problem"
-			\item also contains realisation of K-means, SVM, Clustering and neural network algorithms
-	\end{itemize}}
+	\end{itemize}
+	 I included implementation of Ant-colony and Genetic algorithms for "Travelling salesman problem". Also contains realization of K-means, SVM, Clustering and neural network algorithms. Just python scripts here
+	}
 
-	\cventry{}{}{RTV-redactor}{2020 \vspace{-1.0em}}{}{
+	\cventry{}{}{RTV-redactor}{2020\vspace{-1.0em}}{}{
 		% Detailed achievements:%
 		\begin{itemize}
 			\item  
 			\url {https://github.com/makselivanov/RTV_redactor}
-			\item I wrote algorithm of recognition with ideas of interpolation angles and point structures
-	\end{itemize}}
+	\end{itemize}
+	As a course project I wrote an algorithm that is able to recognize different handwritten geometric shapes (square circle rhombus) without using any machine learning techniques. I used ideas of interpolation angles and point structures.
+	}
 
-	\section{Skills}
+	\section{Programming skills}
 	\begin{itemize}
 		\item C++, Python, C\#, C, Java, JavaScript, html, CSS, Kotlin, Haskell, Scala, SQL, Lean
 		\item ASPnet, EntityFramework, Microsoft Sql express, React, three.js
 		\item Git, Linux, Unity3D, SVN, Blender(3d modeling), protobuff, Shiny.
-		\item Russian (Native), English (Upper-Intermediate)
+
 	\end{itemize}
+		 %\vspace{6.0em}
+		 	\newpage
+	\section{Quantum computing experience}
 	
+	\cventry{}{}{Term paper}{2021\vspace{-1.0em}}{}{
+		I did a semester project on the topic “quantum algorithms for VRP and VRPTW (Vehicle Routing Problem with Time Windows) problems” with application to the real case problems of building the routes for drilling machines for oil production in collaboration with GazpromNeft -- one of Russian major oil companies. I was directly assigned the task of studying current best practices for solving logistics problems on classical computers. The next step was to study current results on solving this problem by quantum and quantum-inspired methods. As many optimization problems, this one turned out to be possible to reduce to QUBO (quadratic unconstrained binary optimization) and solve it using quantum optimization algorithms such as VQE and QAOA. Then I was to develop (program) a simple solver of the multi-traveling salesman problem for small-scale problems (toy problem). It can run locally on a simulator from Qiskit. During this work, I perfectly understood the intricacies of launching and testing quantum algorithms using simulators and at IBM cloud system, how to look for quantum-inspired algorithms and test their applicability.\\
+		(unfortunately I cannot share any code because of the privacy regulations of GazpromNeft)}
 	
+	\cventry{}{}{Courses}{2021-2022\vspace{-1.0em}}{}{
+		\begin{itemize}
+			\item Course on introduction to quantum computations: Grover's algorithm, Deutsch–Jozsa algorithm, quantum permutations, quantum Fourier Transform, quantum search, Q-RAM, Shor's algorithm.
+			\item Course on quantum information: density operator, noise in quantum systems, closeness of quantum states, quantum correction codes and their realization, classical and quantum entropy, bandwidth of quantum channels, transmission of quantum information over a noisy quantum channel, quantum cryptography.
+			\item Additional seminar with the `GazpromNeft` team: Phase estimation algorithm, QAOA algorithm, QAA algorithm, VQE algorithm, q.search as q.simulation, black box algorithm limits, speed up of NP-complete problems, q.search optimality, q.search in unstructured database.
+	\end{itemize}}
+
 	\section{Achievements}
 
 	\cventry{}{}{ICPC}{2020\vspace{-1.0em}}{}{
@@ -180,15 +203,15 @@
 %			\item \href{https://diploma.rsr-olymp.ru/files/rsosh-diplomas-static/compiled-storage-2018/by-code/117272475400/color.pdf}{Top 109 out of 1103 in "Open olympiad in Physics" 2018}
 	\end{itemize}}
 	
-		\cventry{}{}{Open olympiad}{2018 and 2016 \vspace{-1.0em}}{}{
+		\cventry{}{}{Open olympiad}{2018\vspace{-1.0em}}{}{
 		% Detailed achievements:%
 		\begin{itemize}
 			\item \href{https://diploma.rsr-olymp.ru/files/rsosh-diplomas-static/compiled-storage-2018/by-code/117272475400/color.pdf}{Top 60 out of 1100 in "Open olympiad in Mathematics" 2018 and 2016}
-%			\item \href{https://diploma.rsr-olymp.ru/files/rsosh-diplomas-static/compiled-storage-2018/by-code/117292234832/color.pdf}{Top 174 out of 1404 in "Open olympiad in Mathematics" 2017}
-%			\item \href{https://diploma.rsr-olymp.ru/files/rsosh-diplomas-static/compiled-storage-2018/by-code/117272475400/color.pdf}{Top 109 out of 1103 in "Open olympiad in Physics" 2018}
+			\item \href{https://diploma.rsr-olymp.ru/files/rsosh-diplomas-static/compiled-storage-2018/by-code/117292234832/color.pdf}{Top 174 out of 1404 in "Open olympiad in Mathematics" 2017}
+			\item \href{https://diploma.rsr-olymp.ru/files/rsosh-diplomas-static/compiled-storage-2018/by-code/117272475400/color.pdf}{Top 109 out of 1103 in "Open olympiad in Physics" 2018}
 	\end{itemize}}
 
-	\cventry{}{}{International scientific school conference "XVIII Kolmogorov Readings" }{2019 \vspace{-1.0em}}{}{
+	\cventry{}{}{International scientific school conference "XVIII Kolmogorov Readings" }{2019\vspace{-1.0em}}{}{
 		% Detailed achievements:%
 		\begin{itemize}
 			\item I took \href{https://internat.msu.ru/media/uploads/2018/05/pobediteli-informatika-na-sajt.pdf}{\textcolor{blue}{third place}} in the discipline of computer science and mathematical modeling
@@ -197,18 +220,20 @@
 	
 	% \vspace{1.0em}
 	
-	%\section{Achievements}
-	%	\begin{itemize}
-	%		\item Russian (Native), English (Upper-Intermediate)
-	%	\end{itemize}
+	\section{Languages}
+		Russian (Native), English (Upper-Intermediate)
+	
+	\vspace*{\fill}
+	\name{}{}
+	\title{}
+	\address{Novoizmailovsky prospect, 16k8}{Saint-Petersburg}{ Russia }
+	\mobile{+7 (913) 923 87 12}
+	\email{studioshader2018@gmail.com}
+	\social[github]{StudioShader}   
+	\makecvtitle
 	%\section{Languages}
 	%\begin{itemize}
 	%	\item Russian (Native), English (Upper-Intermediate)
 	%\end{itemize}
-	
-	
-	
-	
-	
-	
+	%\makecvfoot
 \end{document}
