@@ -4,6 +4,7 @@
 StudioShader@github
 -------------------------
 Location: Novosibirsk, Russia
+Interst: quantum computations, quantum information theory
 Languages: C++, Python, C#, C.
 Have experience in programming on Java,
 Kotlin, Haskell, Scala, SQL, Lean ...
