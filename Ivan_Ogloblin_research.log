@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.26)  4 JUN 2022 00:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.26)  4 JUN 2022 23:35
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1073,7 +1073,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 {C:/Users/пк/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 235.
+nput line 237.
 
 (C:\Users\пк\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
 efree2.fd)
@@ -1081,43 +1081,43 @@ efree2.fd)
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
 LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 2
-35.
+37.
 
 (C:\Users\пк\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 235.
+nput line 237.
 
 (C:\Users\пк\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
 efree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 235.
+ input line 237.
 
 (C:\Users\пк\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
 ebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 235.
+n input line 237.
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--235
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
 
  []
 
 [2] (Ivan_Ogloblin_research.aux)
 Package rerunfilecheck Info: File `Ivan_Ogloblin_research.out' has not changed.
 
-(rerunfilecheck)             Checksum: 2A44F1681697D2A9E93C912472940161;843.
+(rerunfilecheck)             Checksum: 2705432698A1480F1E33D01025497EDC;896.
  ) 
 Here is how much of TeX's memory you used:
- 26349 strings out of 478582
- 515946 string characters out of 2844816
- 811990 words of memory out of 3000000
+ 26355 strings out of 478582
+ 516012 string characters out of 2844816
+ 812732 words of memory out of 3000000
  43982 multiletter control sequences out of 15000+600000
- 527038 words of font info for 98 fonts, out of 8000000 for 9000
+ 527332 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,11n,122p,1265b,472s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 129i,11n,122p,1296b,472s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/пк/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5
 brands0.enc}{C:/Users/пк/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontaw
 esome5/fa5free1.enc}{C:/Users/пк/AppData/Local/Programs/MiKTeX/fonts/enc/dvip
@@ -1136,9 +1136,9 @@ s/type1/public/lm/lmss17.pfb><C:/Users/пк/AppData/Local/Programs/MiKTeX/fonts
 s/type1/public/lm/lmsso10.pfb><C:/Users/пк/AppData/Local/Programs/MiKTeX/font
 s/type1/public/lm/lmtt10.pfb><C:/Users/пк/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/tex-gyre/qplr.pfb>
-Output written on Ivan_Ogloblin_research.pdf (2 pages, 265540 bytes).
+Output written on Ivan_Ogloblin_research.pdf (2 pages, 266541 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
+ 123 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
  26181 words of extra memory for PDF output out of 29859 (max. 10000000)
 
