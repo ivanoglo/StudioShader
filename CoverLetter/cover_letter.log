@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.26)  6 JUN 2022 23:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.26)  9 JUN 2022 15:41
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -940,7 +940,7 @@ Package rerunfilecheck Info: File `cover_letter.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  25630 strings out of 478582
- 502011 string characters out of 2844816
+ 502087 string characters out of 2844816
  784071 words of memory out of 3000000
  43370 multiletter control sequences out of 15000+600000
  475074 words of font info for 59 fonts, out of 8000000 for 9000
@@ -958,7 +958,7 @@ wesome5/FontAwesome5Free-Solid.pfb><C:/Users/пк/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/пк/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/пк/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on cover_letter.pdf (1 page, 102495 bytes).
+Output written on cover_letter.pdf (1 page, 102169 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
