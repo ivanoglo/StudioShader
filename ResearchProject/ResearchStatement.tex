@@ -1,0 +1,87 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2015 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{casual}                             % style options are 'casual' (default), 'classic', 'banking', 'oldstyle' and 'fancy'
+\moderncvcolor{blue}                               % color options 'black', 'blue' (default), 'burgundy', 'green', 'grey', 'orange', 'purple' and 'red'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\name{Ivan}{Ogloblin}                             % optional, remove / comment the line if not wanted
+\firstname{Ivan} % Your first name
+\lastname{Ogloblin} % Your last name
+\address{Novoizmailovsky prospect, 16k8}{Saint-Petersburg}{ Russia }% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
+\phone[mobile]{+7~(913)~923~87 12}                   % optional, remove / comment 
+\email{studioshader2018@gmail.com}                               % optional, remove / comment the line if not wanted                         % optional, remove / comment the line if                            % optional, remove / comment the line if not wanted
+\social[github]{StudioShader}                              % optional, remove / comment the line if not wanted
+% optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file                               % optional, remove / comment the line if not wanted
+
+% bibliography adjustements (only useful if you make citations in your resume, or print a list of publications using BibTeX)
+%   to show numerical labels in the bibliography (default is to show no labels)
+\makeatletter\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}\makeatother
+%   to redefine the bibliography heading string ("Publications")
+%\renewcommand{\refname}{Articles}
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+	%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+	\clearpage
+	%-----       letter       ---------------------------------------------------------
+	% recipient data
+	%	\recipient{Support Programm at IMPA}{Company, Inc.\\123 somestreet\\some city}
+	\recipient{Support Programm at IMPA}{}
+	\date{June 05, 2022}
+	\opening{Research and Study Intentions}
+	\closing{Yours truly,}
+	%	\enclosure[Attached]{curriculum vit\ae{}}          % use an optional argument to use a string other than "Enclosure", or redefine \enclname
+	\makelettertitle
+	
+	I am eager to continue my scientific activity in the field of quantum computing. 
+	
+	Quantum computing is a very intriguing field. Ideally, I want to push our knowledge to bring quantum computing to the industrial sector. I see an abundance of opportunities to utilize quantum computations in chemistry simulations. If we had a perfect quantum computer with a large number of qubits, we could simulate any chemical experiment with great accuracy. To understand to what extent this statement is true, I want to expand my skills with a closer study of complexity theory and Quantum finite automata. It may not have applications in NISQ era, but it surely will guide humanity towards the right path.
+	
+	However, to understand how we can push the boundaries of quantum computing, we need to understand our current limitations. Today's quantum processors are small and noisy. I want to study and understand how we can overcome the low number of qubits and the high exposure to noise. In particular, I am very interested in the topic of the impact of noise on the efficiency of quantum algorithms.
+	
+	Currently, I am working on this project with Sergei Borisovich. The big goal, as I see it, is to find a mathematical apparatus that conveniently describes the amount of noise that accumulates during the execution of different algorithms. There is a lot of material and mathematical models on this topic that one needs to be able to handle, such as density matrices, Schmidt decomposition, purifications, so my work involves a lot of studying and searching for existing methods.
+	
+	Chemistry simulations have an essentially quantum nature, so my idea is to find an overlap between the potential of quantum computers and the quantum nature of chemical simulations. Though it seems easy, there is a lot of work to do. I already have experience with optimization algorithms, such as VQE and QAOA, which can be used in chemistry simulations, and I can't wait to deepen my knowledge on this topic. This summer I will be participating in \href{https://qiskit.org/events/summer-school/}{\textcolor{blue}{2022 Qiskit Global Summer School: Quantum Simulations}} and hope to gain as much experience as I can. 
+	
+	I am also interested in the field of quantum cryptography. So far, I have only theoretical knowledge in this area, but I would really like to study it in detail and see what it can bring to our world.
+	
+	Currently, I have one last year left before receiving a bachelor's degree from St. Petersburg State University. But I have no supervisor to help me write my dissertation. Ideally, I would like to apply to the Master's degree at IMPA and get my Bachelor's online, if such an option is possible. As I plan to advance my career in the academical field, after a Master's degree I will be aiming for a Ph.D.
+	
+	
+	%	\makeletterclosing
+	\title{}
+	\address{Novoizmailovsky prospect, 16k8}{Saint-Petersburg}{ Russia }
+	\email{studioshader2018@gmail.com}
+	%	\makecvtitle
+	\makeletterclosing
+	\name{}{}
+	%\clearpage\end{CJK*}                              % if you are typesetting your resume in Chinese using CJK; the \clearpage is required for fancyhdr to work correctly with CJK, though it kills the page numbering by making \lastpage undefined
+\end{document}
+
+
+%% end of file `template.tex'.
