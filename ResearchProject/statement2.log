@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.26)  13 JUN 2022 11:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.26)  16 JUN 2022 00:48
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -941,7 +941,7 @@ Package rerunfilecheck Info: File `statement2.out' has not changed.
 Here is how much of TeX's memory you used:
  25626 strings out of 478582
  502037 string characters out of 2844816
- 783059 words of memory out of 3000000
+ 784057 words of memory out of 3000000
  43370 multiletter control sequences out of 15000+600000
  474944 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -958,7 +958,7 @@ wesome5/FontAwesome5Free-Solid.pfb><C:/Users/пк/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/пк/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/пк/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on statement2.pdf (1 page, 101385 bytes).
+Output written on statement2.pdf (1 page, 101486 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
