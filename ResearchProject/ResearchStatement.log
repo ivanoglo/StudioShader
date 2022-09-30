@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.26)  7 JUN 2022 23:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.26)  16 JUN 2022 13:47
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -898,8 +898,21 @@ LaTeX Info: Redefining \nameref on input line 48.
 LaTeX Font Warning: Font shape `OT1/cmss/bx/sl' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 59.
 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 	\makelettertitle
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 84.
+nput line 87.
 
 (C:\Users\пк\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
 efree2.fd)
@@ -908,19 +921,19 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 84.
+nput line 87.
 
 (C:\Users\пк\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
 efree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 84.
+ input line 87.
 
 (C:\Users\пк\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
 ebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 84.
+n input line 87.
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -939,11 +952,11 @@ Package rerunfilecheck Info: File `ResearchStatement.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25626 strings out of 478582
- 502087 string characters out of 2844816
- 783101 words of memory out of 3000000
+ 25624 strings out of 478582
+ 502147 string characters out of 2844816
+ 782101 words of memory out of 3000000
  43370 multiletter control sequences out of 15000+600000
- 474944 words of font info for 57 fonts, out of 8000000 for 9000
+ 474879 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,12n,122p,1016b,517s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/пк/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5
@@ -958,9 +971,9 @@ wesome5/FontAwesome5Free-Solid.pfb><C:/Users/пк/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/пк/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/пк/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on ResearchStatement.pdf (1 page, 101483 bytes).
+Output written on ResearchStatement.pdf (1 page, 101098 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 58 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  14349 words of extra memory for PDF output out of 14400 (max. 10000000)
 

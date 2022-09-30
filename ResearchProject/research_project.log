@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.26)  29 SEP 2022 22:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.26)  16 JUN 2022 13:35
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
-**./cover_letter.tex
-(cover_letter.tex
+**./research_project.tex
+(research_project.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (C:\Users\пк\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncv.cls
@@ -770,29 +770,29 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip100
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 49.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 49.
- (cover_letter.aux)
-\openout1 = `cover_letter.aux'.
+Package hyperref Info: Option `breaklinks' set `true' on input line 48.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 48.
+ (research_project.aux)
+\openout1 = `research_project.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 
 (C:\Users\пк\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
@@ -819,18 +819,18 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \microtypecontext on input line 49.
-Package microtype Info: Applying patch `item' on input line 49.
-Package microtype Info: Applying patch `toc' on input line 49.
-Package microtype Info: Applying patch `eqnum' on input line 49.
-Package microtype Info: Applying patch `footnote' on input line 49.
+LaTeX Info: Redefining \microtypecontext on input line 48.
+Package microtype Info: Applying patch `item' on input line 48.
+Package microtype Info: Applying patch `toc' on input line 48.
+Package microtype Info: Applying patch `eqnum' on input line 48.
+Package microtype Info: Applying patch `footnote' on input line 48.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 49.
+LaTeX Info: Redefining \showhyphens on input line 48.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -873,7 +873,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 49.
+Package hyperref Info: Link coloring OFF on input line 48.
 (C:\Users\пк\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -886,20 +886,20 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count317
 )
-LaTeX Info: Redefining \ref on input line 49.
-LaTeX Info: Redefining \pageref on input line 49.
-LaTeX Info: Redefining \nameref on input line 49.
- (cover_letter.out) (cover_letter.out)
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
+ (research_project.out) (research_project.out)
 \@outlinefile=\write4
-\openout4 = `cover_letter.out'.
+\openout4 = `research_project.out'.
 
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/sl' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 60.
+(Font)              using `OT1/cmss/bx/n' instead on input line 59.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 83.
+nput line 85.
 
 (C:\Users\пк\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
 efree2.fd)
@@ -908,19 +908,19 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 83.
+nput line 85.
 
 (C:\Users\пк\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
 efree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 83.
+ input line 85.
 
 (C:\Users\пк\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
 ebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 83.
+n input line 85.
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -931,21 +931,21 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 
 
 {C:/Users/пк/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(cover_letter.aux)
+(research_project.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `cover_letter.out' has not changed.
+Package rerunfilecheck Info: File `research_project.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25635 strings out of 478582
- 502125 string characters out of 2844816
- 783076 words of memory out of 3000000
- 43371 multiletter control sequences out of 15000+600000
- 475204 words of font info for 61 fonts, out of 8000000 for 9000
+ 25626 strings out of 478582
+ 502145 string characters out of 2844816
+ 784095 words of memory out of 3000000
+ 43370 multiletter control sequences out of 15000+600000
+ 474944 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,12n,122p,1011b,517s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 129i,12n,122p,1015b,517s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/пк/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5
 brands0.enc}{C:/Users/пк/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontaw
 esome5/fa5free1.enc} <C:\Users\пк\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
@@ -958,9 +958,9 @@ wesome5/FontAwesome5Free-Solid.pfb><C:/Users/пк/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/пк/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/пк/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on cover_letter.pdf (1 page, 102483 bytes).
+Output written on research_project.pdf (1 page, 101486 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 58 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  14349 words of extra memory for PDF output out of 14400 (max. 10000000)
 
