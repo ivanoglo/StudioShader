@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  8 MAR 2023 20:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  7 MAR 2023 17:30
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
-**./CV_research.tex
-(CV_research.tex
+**./CV_Ivan_Ogloblin.tex
+(CV_Ivan_Ogloblin.tex
 LaTeX2e <2022-11-01>
 L3 programming layer <2022-11-02>
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncv.cls
@@ -170,41 +170,6 @@ tter compatibility patches
 \cvcolumnsautowidth=\skip65
 \cvcolumnautowidth=\skip66
 \bibindent=\skip67
-)
-(C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
-Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncvstyleba
 nking.sty
@@ -663,31 +628,52 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks33
 \inpenc@posthook=\toks34
 )
+(C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/10/09 v0.5w Insert pages of external PDF documents (AM)
+
+(C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen262
+\ESO@tempdimb=\dimen263
+)
+\AM@pagewidth=\dimen264
+\AM@pageheight=\dimen265
+\AM@fboxrule=\dimen266
+
+(C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/10/09 v0.5w Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count298
+\AM@pagebox=\box70
+\AM@global@opts=\toks35
+\AM@pagecnt=\count299
+\AM@toc@title=\toks36
+\c@AM@survey=\count300
+\AM@templatesizebox=\box71
+)
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
-\c@tracingmulticols=\count298
-\mult@box=\box70
-\multicol@leftmargin=\dimen262
-\c@unbalance=\count299
-\c@collectmore=\count300
-\doublecol@number=\count301
-\multicoltolerance=\count302
-\multicolpretolerance=\count303
-\full@width=\dimen263
-\page@free=\dimen264
-\premulticols=\dimen265
-\postmulticols=\dimen266
+\c@tracingmulticols=\count301
+\mult@box=\box72
+\multicol@leftmargin=\dimen267
+\c@unbalance=\count302
+\c@collectmore=\count303
+\doublecol@number=\count304
+\multicoltolerance=\count305
+\multicolpretolerance=\count306
+\full@width=\dimen268
+\page@free=\dimen269
+\premulticols=\dimen270
+\postmulticols=\dimen271
 \multicolsep=\skip97
 \multicolbaselineskip=\skip98
-\partial@page=\box71
-\last@line=\box72
-\maxbalancingoverflow=\dimen267
-\mult@rightbox=\box73
-\mult@grightbox=\box74
-\mult@firstbox=\box75
-\mult@gfirstbox=\box76
-\@tempa=\box77
-\@tempa=\box78
+\partial@page=\box73
+\last@line=\box74
+\maxbalancingoverflow=\dimen272
+\mult@rightbox=\box75
+\mult@grightbox=\box76
+\mult@firstbox=\box77
+\mult@gfirstbox=\box78
 \@tempa=\box79
 \@tempa=\box80
 \@tempa=\box81
@@ -722,15 +708,17 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box110
 \@tempa=\box111
 \@tempa=\box112
-\c@minrows=\count304
-\c@columnbadness=\count305
-\c@finalcolumnbadness=\count306
-\last@try=\dimen268
-\multicolovershoot=\dimen269
-\multicolundershoot=\dimen270
-\mult@nat@firstbox=\box113
-\colbreak@box=\box114
-\mc@col@check@num=\count307
+\@tempa=\box113
+\@tempa=\box114
+\c@minrows=\count307
+\c@columnbadness=\count308
+\c@finalcolumnbadness=\count309
+\last@try=\dimen273
+\multicolovershoot=\dimen274
+\multicolundershoot=\dimen275
+\mult@nat@firstbox=\box115
+\colbreak@box=\box116
+\mc@col@check@num=\count310
 )
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -738,18 +726,18 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count308
-\Gm@cntv=\count309
-\c@Gm@tempcnt=\count310
-\Gm@bindingoffset=\dimen271
-\Gm@wd@mp=\dimen272
-\Gm@odd@mp=\dimen273
-\Gm@even@mp=\dimen274
-\Gm@layoutwidth=\dimen275
-\Gm@layoutheight=\dimen276
-\Gm@layouthoffset=\dimen277
-\Gm@layoutvoffset=\dimen278
-\Gm@dimlist=\toks35
+\Gm@cnth=\count311
+\Gm@cntv=\count312
+\c@Gm@tempcnt=\count313
+\Gm@bindingoffset=\dimen276
+\Gm@wd@mp=\dimen277
+\Gm@odd@mp=\dimen278
+\Gm@even@mp=\dimen279
+\Gm@layoutwidth=\dimen280
+\Gm@layoutheight=\dimen281
+\Gm@layouthoffset=\dimen282
+\Gm@layoutvoffset=\dimen283
+\Gm@dimlist=\toks37
 
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)
 
@@ -800,11 +788,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 estring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count311
+\c@section@level=\count314
 )
-\@linkdim=\dimen279
-\Hy@linkcounter=\count312
-\Hy@pagecounter=\count313
+\@linkdim=\dimen284
+\Hy@linkcounter=\count315
+\Hy@pagecounter=\count316
 
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
@@ -817,7 +805,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count314
+\Hy@SavedSpaceFactor=\count317
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -831,9 +819,9 @@ Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4410.
-\c@Hy@tempcnt=\count315
+\c@Hy@tempcnt=\count318
 LaTeX Info: Redefining \url on input line 4748.
-\XeTeXLinkMargin=\dimen280
+\XeTeXLinkMargin=\dimen285
 
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -843,9 +831,9 @@ sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count316
-\Field@Width=\dimen281
-\Fld@charsize=\dimen282
+\Fld@menulength=\count319
+\Field@Width=\dimen286
+\Fld@charsize=\dimen287
 Package hyperref Info: Hyper figures OFF on input line 6027.
 Package hyperref Info: Link nesting OFF on input line 6032.
 Package hyperref Info: Hyper index ON on input line 6035.
@@ -858,9 +846,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6057.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count317
-\c@Item=\count318
-\c@Hfootnote=\count319
+\Hy@abspage=\count320
+\c@Item=\count321
+\c@Hfootnote=\count322
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -872,8 +860,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count320
-\c@bookmark@seq@number=\count321
+\Fld@listcount=\count323
+\c@bookmark@seq@number=\count324
 
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
 check.sty
@@ -888,49 +876,44 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip99
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 62.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 62.
- (CV_research.aux)
-\openout1 = `CV_research.aux'.
+Package hyperref Info: Option `breaklinks' set `true' on input line 56.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 56.
+ (CV_Ivan_Ogloblin.aux)
+\openout1 = `CV_Ivan_Ogloblin.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-62.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
 
-(C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmss.fd
-File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count322
-\scratchdimen=\dimen283
-\scratchbox=\box115
-\nofMPsegments=\count323
-\nofMParguments=\count324
-\everyMPshowfont=\toks36
-\MPscratchCnt=\count325
-\MPscratchDim=\dimen284
-\MPnumerator=\count326
-\makeMPintoPDFobject=\count327
-\everyMPtoPDFconversion=\toks37
+\scratchcounter=\count325
+\scratchdimen=\dimen288
+\scratchbox=\box117
+\nofMPsegments=\count326
+\nofMParguments=\count327
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count328
+\MPscratchDim=\dimen289
+\MPnumerator=\count329
+\makeMPintoPDFobject=\count330
+\everyMPtoPDFconversion=\toks39
 )
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
 se.sty
@@ -942,26 +925,39 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \microtypecontext on input line 62.
-Package microtype Info: Applying patch `item' on input line 62.
-Package microtype Info: Applying patch `toc' on input line 62.
-Package microtype Info: Applying patch `eqnum' on input line 62.
-Package microtype Info: Applying patch `footnote' on input line 62.
+LaTeX Info: Redefining \microtypecontext on input line 56.
+Package microtype Info: Applying patch `item' on input line 56.
+Package microtype Info: Applying patch `toc' on input line 56.
+Package microtype Info: Applying patch `eqnum' on input line 56.
+Package microtype Info: Applying patch `footnote' on input line 56.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 62.
+LaTeX Info: Redefining \showhyphens on input line 56.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `lmss' (encoding: OT1).
+(microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
+(C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nome
+tadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -971,14 +967,14 @@ Package microtype Info: Loading generic protrusion settings for font family
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(29.87721pt, 537.75343pt, 29.87723pt)
-* v-part:(T,H,B)=(42.67912pt, 788.14136pt, 14.22636pt)
+* v-part:(T,H,B)=(14.22636pt, 827.97504pt, 2.84544pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=537.75343pt
-* \textheight=788.14136pt
+* \textheight=827.97504pt
 * \oddsidemargin=-42.39278pt
 * \evensidemargin=-42.39278pt
-* \topmargin=-66.59087pt
+* \topmargin=-95.04362pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -996,125 +992,202 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 62.
-(CV_research.out) (CV_research.out)
+Package hyperref Info: Link coloring OFF on input line 56.
+(CV_Ivan_Ogloblin.out) (CV_Ivan_Ogloblin.out)
 \@outlinefile=\write4
-\openout4 = `CV_research.out'.
+\openout4 = `CV_Ivan_Ogloblin.out'.
 
-LaTeX Font Info:    Font shape `OT1/lmss/b/n' in size <24.88> not available
-(Font)              Font shape `OT1/lmss/bx/n' tried instead on input line 66.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6
-6.
 
-(C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-(C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 6
-6.
 
-(C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-66.
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 60.
 
-(C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-66.
-
-(C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 66.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 66.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 66.
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
-
- []
-
-LaTeX Font Info:    Font shape `OT1/lmss/b/n' in size <14.4> not available
-(Font)              Font shape `OT1/lmss/bx/n' tried instead on input line 69.
-LaTeX Font Info:    Font shape `OT1/lmss/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/lmss/bx/n' tried instead on input line 70.
-LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 70.
-[1
-
-{C:/Users/Ivan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 225.
+nput line 60.
 
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
 efree2.fd)
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 2
-25.
+LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 6
+0.
 
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 225.
+nput line 60.
 
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
 efree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 225.
+ input line 60.
 
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
 ebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 225.
+n input line 60.
 
-Underfull \hbox (badness 10000) in paragraph at lines 225--225
+(C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 60.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 60.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 60.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
 
  []
 
-[2] (CV_research.aux)
-Package rerunfilecheck Info: File `CV_research.out' has not changed.
-(rerunfilecheck)             Checksum: CDE3600285769386B7569E9FD60345D4;896.
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 63.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 64.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 64.
+
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 64.
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 65.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 65.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 96.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 105.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 105.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 113.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 113.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 115.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 119.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 119.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 123.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 123.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 142.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 142.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 147.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 147.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 150.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 159.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 168.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 168.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 176.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 176.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 182.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 182.
+
+[1
+
+{C:/Users/Ivan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(CV_Ivan_Ogloblin.aux)
+Package rerunfilecheck Info: File `CV_Ivan_Ogloblin.out' has not changed.
+(rerunfilecheck)             Checksum: 8195FF3BBB4E62B685A63EBFC359EB9D;440.
  ) 
 Here is how much of TeX's memory you used:
- 26381 strings out of 475306
- 517280 string characters out of 2775305
- 867878 words of memory out of 3000000
- 47288 multiletter control sequences out of 15000+600000
- 516235 words of font info for 91 fonts, out of 8000000 for 9000
+ 26951 strings out of 475306
+ 527207 string characters out of 2775305
+ 886352 words of memory out of 3000000
+ 47885 multiletter control sequences out of 15000+600000
+ 484120 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,11n,122p,1290b,472s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 129i,11n,122p,1015b,472s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5
-brands0.enc}{C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontaw
-esome5/fa5free1.enc}{C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/enc/dvip
-s/tex-gyre/q-ts1.enc}{C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/enc/dvi
-ps/fontawesome5/fa5free2.enc}{C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts
-/enc/dvips/fontawesome5/fa5free0.enc}{C:/Users/Ivan/AppData/Local/Programs/MiKT
-eX/fonts/enc/dvips/lm/lm-rm.enc}<C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/Ivan/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Reg
-ular.pfb><C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontaw
-esome5/FontAwesome5Free-Solid.pfb><C:/Users/Ivan/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/lm/lmss10.pfb><C:/Users/Ivan/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/lm/lmss17.pfb><C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/lm/lmssbx10.pfb><C:/Users/Ivan/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/lm/lmsso10.pfb><C:/Users/Ivan/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/tex-gyre/qplr.pfb>
-Output written on CV_research.pdf (2 pages, 240303 bytes).
+free0.enc}{C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawes
+ome5/fa5brands0.enc}{C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/enc/dvip
+s/fontawesome5/fa5free1.enc}{C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/
+enc/dvips/tex-gyre/q-ts1.enc}{C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts
+/enc/dvips/fontawesome5/fa5free2.enc}<C:/Users/Ivan/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/Iva
+n/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Fre
+e-Regular.pfb><C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/type1/public/f
+ontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/Ivan/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Ivan/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Ivan/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/Iva
+n/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplr.pfb>
+Output written on CV_Ivan_Ogloblin.pdf (1 page, 171022 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
- 24133 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 92 PDF objects out of 1000 (max. 8388607)
+ 7 named destinations out of 1000 (max. 500000)
+ 24117 words of extra memory for PDF output out of 24883 (max. 10000000)
 
