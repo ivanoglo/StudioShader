@@ -3,7 +3,7 @@
 ```csharp
 StudioShader@github
 -------------------------
-Location: Novosibirsk, Russia
+Location: Rio de Janeiro, Brazil
 Interst: quantum computations, quantum information theory
 Languages: C++, Python, C#, C.
 Have experience in programming on Java,
