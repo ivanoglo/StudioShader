@@ -116,6 +116,12 @@
 	
 	\section{Developer Projects}
 	
+	\cventry{}{}{Strawberry fields composer}{2023\vspace{-1.0em}}{}{
+		% Detailed achievements:%
+		Created a website dedicated to simulation of linear and non-linear optics for quantum computation models. Used Django, bootstrap and Strawberry fields. \href{https://strawberryfields.ai/}{\textcolor{blue}{Strawberry fields}} is a base for research directions. Right now it is hosted on an external free service, please wait while it loads! 
+		\href{https://strawberryfieldscomposer.onrender.com}{(\textcolor{blue}{website})} (\href{https://github.com/StudioShader/SF_Composer}{\textcolor{blue}{github}})
+	}
+	
 	\cventry{}{}{Archiver}{ 2019 \vspace{-1.0em}}{}{
 		% Detailed achievements:%
 			 C++ Used Huffman algorithm in implementation for data compression and decompression \href{https://github.com/StudioShader/huffman-archiver}{(\textcolor{blue}{github})}}
@@ -139,12 +145,7 @@
 			\href{https://github.com/AndreyYurko/hhTinder}{(\textcolor{blue}{github})} 
 		}
 		
-		\cventry{}{}{ML-projects}{2019\vspace{-1.0em}}{}{
-			% Detailed achievements:%
-			I included implementation of Ant-colony and Genetic algorithms for "Travelling Salesman Problem". Also contains realization of K-means, SVM, Clustering and neural network algorithms.
-			\href{https://github.com/StudioShader/ML-Projects}{(\textcolor{blue}{github})}}
-		
-		\section{Achievements}
+		\section{Earlier achievements}
 		
 		\cventry{}{}{ICPC}{2020\vspace{-1.0em}}{}{
 			% Detailed achievements:%
@@ -172,31 +173,38 @@
 		\section{Programming skills}
 		\begin{itemize}
 			\item C++, Python, C\#, C, Java, JavaScript, HTML, CSS, Kotlin, Haskell, Scala, SQL, Lean
-			\item ASPnet, EntityFramework, Microsoft SQL Express, React, three.js, postgreSQL
+			\item ASPnet, EntityFramework, Microsoft SQL Express, React, three.js, postgreSQL, Django, Bootstrap
 			\item Git, Linux, Unity3D, SVN, Blender(3d modeling), protobuff, Shiny, Docker
 			
 		\end{itemize}
 		%\vspace{6.0em}
 		\newpage
 		\section{Quantum computing experience}
+		\cventry{}{}{Simulation of photonic quantum computing}{2023\vspace{-1.0em}}{}{
+			Developed web service dedicated to simulation of linear and non-linear optics for quantum computation models. Used \href{https://strawberryfields.ai/}{\textcolor{blue}{Strawberry fields}} as an underlying engine. As it has a lot of components for non-linear optics, the simulation can take a while. During this work I got familiar with basic quantum optics notations and basic quantum computation models using non-linear optics. Right now it is hosted on an external free service, please wait while it loads! 
+			\href{https://strawberryfieldscomposer.onrender.com}{(\textcolor{blue}{website})} (\href{https://github.com/StudioShader/SF_Composer}{\textcolor{blue}{github}})
+		}
 		\cventry{}{}{Undergraduate Thesis}{2022-2023\vspace{-1.0em}}{}{
 			As my thesis I did research on optimal schemes of entangling transformations in linear quantum optics using genetic algorithm. New schemes were obtained for finding the maximum entangled state, as well as for implementing gates equivalent to CX. Although it was not possible to improve the probability of operation, it was hypothesized that in the schemes in the KLM protocol it is impossible to find a scheme that implements the transformation, which would not be a perfect entangler, or at least not equivalent to CX. You can see presentation in 
 			\href{https://github.com/StudioShader/galopy/blob/master/slides(eng).pdf}{\textcolor{blue}{this repository}}.
 		}
+	\cventry{}{}{Study of the Effect of Noise on Efficient Quantum Search Algorithms}{2022\vspace{-1.0em}}{}{
+		Semester project on the topic "Study of the Effect of Noise on Efficient Quantum Search Algorithms" under the supervision of Sergei Borisovich. In this project I was to implement improved quantum search algorithms for unstructured DB. They are based on the Grover's algorithm and are described in \href{https://doi.org/10.1007/s11128-021-03165-2}{this article}. The results of testing algorithms for a problem of no more than five qubits are shown. My task was to dig further into the limits of quantum search algorithms. First, I implemented improved search algorithms. Secondly, I created an environment for testing algorithms with different noise models and different numbers of qubits. Finally, I conducted a set of experiments and explored the impact of noise on variations of the algorithm. In my experiments I used thermal relaxation noise model and coupling map from a real device: "Melbourne". As a result I understood how to run such experiments in order to obtain estimates of the noise parameters for feasible operation of the algorithm. You can find details in \href{https://github.com/StudioShader/QPSA/blob/main/presentation.pdf}{\textcolor{blue}{this presentation}} or in \href{https://github.com/StudioShader/QPSA}{\textcolor{blue}{this repository}}.
+	}
 		\cventry{}{}{Quantum Algorithms for VRP and VRPTW Problems}{2021\vspace{-1.0em}}{}{
 			I did a semester project on the topic “Quantum Algorithms for VRP and VRPTW (Vehicle Routing Problem with Time Windows) Problems” with application to the real case problems of building the routes for drilling machines for oil production in collaboration with GazpromNeft -- one of Russia's major oil companies. I was directly assigned the task of studying current best practices for solving logistics problems on classical computers. The next step was to study current results on solving this problem by quantum and quantum-inspired algorithms. As with many optimization problems, it turned out to be possible to reduce this problem to QUBO (quadratic unconstrained binary optimization) and solve it using quantum optimization algorithms such as VQE and QAOA. Then I was to develop a simple solver for the multi-traveling salesman problem for small-scale problems (toy problem, up to 7 qubit). It can run locally on a simulator with Qiskit. During this work, I perfectly understood the intricacies of launching and testing quantum algorithms using simulators at IBM Cloud system and how to look for quantum-inspired algorithms and test their applicability.\\
 			(unfortunately I cannot share any code because of the privacy regulations of GazpromNeft)}
-		\cventry{}{}{Study of the Effect of Noise on Efficient Quantum Search Algorithms}{2022\vspace{-1.0em}}{}{
-			Semester project on the topic "Study of the Effect of Noise on Efficient Quantum Search Algorithms" under the supervision of Sergei Borisovich. In this project I was to implement improved quantum search algorithms for unstructured DB. They are based on the Grover's algorithm and are described in \href{https://doi.org/10.1007/s11128-021-03165-2}{this article}. The results of testing algorithms for a problem of no more than five qubits are shown. My task was to dig further into the limits of quantum search algorithms. First, I implemented improved search algorithms. Secondly, I created an environment for testing algorithms with different noise models and different numbers of qubits. Finally, I conducted a set of experiments and explored the impact of noise on variations of the algorithm. In my experiments I used thermal relaxation noise model and coupling map from a real device: "Melbourne". As a result I understood how to run such experiments in order to obtain estimates of the noise parameters for feasible operation of the algorithm. You can find details in \href{https://github.com/StudioShader/QPSA/blob/main/presentation.pdf}{\textcolor{blue}{this presentation}} or in \href{https://github.com/StudioShader/QPSA}{\textcolor{blue}{this repository}}.
+		\cventry{}{}{Assistant professor}{2023\vspace{-1.0em}}{}{
+			I worked as an assistant professor creating homework and complementing course notes on the course "introduction to quantum computation", for prof. \href{https://scholar.google.com/citations?user=UnZl40AAAAAJ&hl=en}{\textcolor{blue}{Sergey Tikhomirov}}. Broke down Shor's algorithm into sub-tasks and learned to explain concepts from basic to HHL.
 		}
-		\cventry{}{}{Courses}{2021-2022\vspace{-1.0em}}{}{
-			Almost all of these topics were understood by the book\\ \href{https://www.cambridge.org/ru/academic/subjects/physics/quantum-physics-quantum-information-and-quantum-computation/quantum-computation-and-quantum-information-10th-anniversary-edition?format=HB&isbn=9781107002173}{\textcolor{blue}{"Quantum Computation and Quantum Information"} Michael A. Nielsen, Isaac L. Chuang}
-			\begin{itemize}
-				\item Course on introduction to quantum computations: Grover's algorithm, Deutsch–Jozsa algorithm, quantum permutations, quantum Fourier Transform, quantum search, Q-RAM, Shor's algorithm.
-				\item Course on quantum information: density operator, noise in quantum systems, closeness of quantum states, quantum correction codes and their realization, classical and quantum entropy, bandwidth of quantum channels, transmission of quantum information over a noisy quantum channel, quantum cryptography.
-				\item Additional seminar with the `GazpromNeft` team: Phase estimation algorithm, QAOA algorithm, QAA algorithm, VQE algorithm, quantum search as quantum simulation, black box algorithm limits, speed up of NP-complete problems, quantum search optimality, quantum search in unstructured database, physical realization of quantum computer: harmonic oscillator, optical photon quantum computers, optical cavity quantum electrodynamics
-			\end{itemize}
-		}
+%		\cventry{}{}{Courses}{2021-2022\vspace{-1.0em}}{}{
+%			Almost all of these topics were understood by the book\\ \href{https://www.cambridge.org/ru/academic/subjects/physics/quantum-physics-quantum-information-and-quantum-computation/quantum-computation-and-quantum-information-10th-anniversary-edition?format=HB&isbn=9781107002173}{\textcolor{blue}{"Quantum Computation and Quantum Information"} Michael A. Nielsen, Isaac L. Chuang}
+%			\begin{itemize}
+%				\item Course on introduction to quantum computations: Grover's algorithm, Deutsch–Jozsa algorithm, quantum permutations, quantum Fourier Transform, quantum search, Q-RAM, Shor's algorithm.
+%				\item Course on quantum information: density operator, noise in quantum systems, closeness of quantum states, quantum correction codes and their realization, classical and quantum entropy, bandwidth of quantum channels, transmission of quantum information over a noisy quantum channel, quantum cryptography.
+%				\item Additional seminar with the `GazpromNeft` team: Phase estimation algorithm, QAOA algorithm, QAA algorithm, VQE algorithm, quantum search as quantum simulation, black box algorithm limits, speed up of NP-complete problems, quantum search optimality, quantum search in unstructured database, physical realization of quantum computer: harmonic oscillator, optical photon quantum computers, optical cavity quantum electrodynamics
+%			\end{itemize}
+%		}
 		
 		\cventry{}{}{Qiskit Global Summer School 2022 - Quantum Excellence}{2022\vspace{-1.0em}}{}{
 			I participated and excelled at Qiskit Global Summer School 2022 which was dedicated to quantum simulations. The main task was to find new ways to simulate hamiltonian for a particular physical system. I successfully solved it and earned a \href{https://www.credly.com/badges/3304071b-2191-46fe-9de6-0b1cc019a06f/public_url}{\textcolor{blue}{badge on Credly}}.
