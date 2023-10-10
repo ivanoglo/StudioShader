@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  10 OCT 2023 17:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  10 OCT 2023 17:15
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -9,8 +9,8 @@ L3 programming layer <2022-11-02>
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncv.cls
 Document Class: moderncv 2022-02-21 v2.3.1 modern curriculum vitae and letter d
 ocument class
-(C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
-File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+(C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
@@ -866,12 +866,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \topmargin=-24.76532pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=50.0pt
+* \marginparwidth=35.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -910,15 +910,15 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
 
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
 ebrands0.fd)
-LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
-available
+LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> n
+ot available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
 n input line 80.
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 54.40001pt, for example:
-(fancyhdr)                \setlength{\footskip}{54.40001pt}.
+(fancyhdr)                Make it at least 57.99998pt, for example:
+(fancyhdr)                \setlength{\footskip}{57.99998pt}.
 
 [1
 
@@ -933,26 +933,26 @@ Package rerunfilecheck Info: File `"Statement of interest".out' has not changed
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25729 strings out of 475306
- 504981 string characters out of 2775305
- 836093 words of memory out of 3000000
- 46740 multiletter control sequences out of 15000+600000
- 475009 words of font info for 58 fonts, out of 8000000 for 9000
+ 25730 strings out of 475306
+ 504979 string characters out of 2775305
+ 836124 words of memory out of 3000000
+ 46739 multiletter control sequences out of 15000+600000
+ 475018 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,12n,122p,1022b,515s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5
 brands0.enc}{C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontaw
 esome5/fa5free1.enc} <C:\Users\Ivan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
-en/ec/dpi600\tcsl1095.pk>{C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/enc
+en/ec/dpi600\tcsl1200.pk>{C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/enc
 /dvips/fontawesome5/fa5free2.enc}<C:/Users/Ivan/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/Ivan/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Re
 gular.pfb><C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/type1/public/fonta
 wesome5/FontAwesome5Free-Solid.pfb><C:/Users/Ivan/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Ivan/AppData/Local/Program
+/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Ivan/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Ivan/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on "Statement of interest.pdf" (1 page, 99155 bytes).
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb>
+Output written on "Statement of interest.pdf" (1 page, 99187 bytes).
 PDF statistics:
  57 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
