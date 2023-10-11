@@ -1,0 +1,83 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2015 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[12pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{casual}                             % style options are 'casual' (default), 'classic', 'banking', 'oldstyle' and 'fancy'
+\moderncvcolor{blue}                               % color options 'black', 'blue' (default), 'burgundy', 'green', 'grey', 'orange', 'purple' and 'red'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\name{Ivan}{Ogloblin}                             % optional, remove / comment the line if not wanted
+\firstname{Ivan} % Your first name
+\lastname{Ogloblin} % Your last name
+\address{Rua Barata ribeiro 194}{Rio de Janeiro}{ Brazil }% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
+\phone[mobile]{+55~(21)982760687}                   % optional, remove / comment 
+\email{ivanogloblin2022@gmail.com}                               % optional, remove / comment the line if not wanted                         % optional, remove / comment the line if                            % optional, remove / comment the line if not wanted
+\social[github]{StudioShader}                              % optional, remove / comment the line if not wanted
+% optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file                               % optional, remove / comment the line if not wanted
+
+% bibliography adjustements (only useful if you make citations in your resume, or print a list of publications using BibTeX)
+%   to show numerical labels in the bibliography (default is to show no labels)
+\makeatletter\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}\makeatother
+%   to redefine the bibliography heading string ("Publications")
+%\renewcommand{\refname}{Articles}
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+	%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+	\clearpage
+	%-----       letter       ---------------------------------------------------------
+	% recipient data
+	%	\recipient{Support Programm at IMPA}{Company, Inc.\\123 somestreet\\some city}
+	\recipient{Cover letter}{}
+	\date{\today}
+	\opening{Dear Sir/Madam,}
+	\closing{Yours faithfully,}
+	%	\enclosure[Attached]{curriculum vit\ae{}}          % use an optional argument to use a string other than "Enclosure", or redefine \enclname
+	\makelettertitle
+	I am so excited to apply for the PsiQuantum internship quantum architecture position! I am in a second year of my Master's degree in mathematics and I am researching quantum computational models with photonics. This opportunity is perfect for me, as I will be able to apply all the experience I've gained during my studies as well as gain new, important knowledge about the field.
+	
+	My research can support the fact that I am driven by quantum computations. I researched use cases for quantum algorithms; I researched the effect of noise on quantum algorithms; I researched quantum entangling transformations with the KLM protocol. I believe in the advantage that quantum computers will bring. That is why I am sure that I will be a great fit for PsiQuantum and why this is a crucial step in my career.
+	
+	I have an undergraduate degree in computer science and want to incorporate my programming skills into my work as much as possible. My recent project, "Strawberry Fields Composer" showed me the intricacies of encoding quantum light with nonlinear elements. I used several engines to simulate quantum systems and analyzed differences in these approaches. This experience will be useful for my work on optical architecture direction at the PsiQuantum internship.
+	
+	My usual approach to solving scientific problems is to look at a problem on a smaller scale. First, solve an easy exercise on the lower dimensions and then generalize to the higher dimensions. For that purpose I usually code the simulation of a problem, get all possible answers, and try to see the pattern. That is also my main motivation for the "Strawberry Fields Composer" project, as it provides exactly such a tool for linear and nonlinear optics.
+	
+	To sum up, this internship is the greatest opportunity of my life, and I hope to be helpful in our future work!
+	
+
+	
+	%	\makeletterclosing
+	\title{}
+	\address{Rua Barata Ribeiro 194}{Rio de Janeiro}{ Brazil }
+	\email{ivanogloblin2022@gmail.com}
+	%	\makecvtitle
+	\makeletterclosing
+	\name{}{}
+	%\clearpage\end{CJK*}                              % if you are typesetting your resume in Chinese using CJK; the \clearpage is required for fancyhdr to work correctly with CJK, though it kills the page numbering by making \lastpage undefined
+\end{document}
+
+
+%% end of file `template.tex'.
