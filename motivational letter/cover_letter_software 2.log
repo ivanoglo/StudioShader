@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  11 NOV 2023 21:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  23 NOV 2023 03:39
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -935,7 +935,7 @@ ed.
 Here is how much of TeX's memory you used:
  25732 strings out of 475306
  505039 string characters out of 2775305
- 836130 words of memory out of 3000000
+ 836129 words of memory out of 3000000
  46739 multiletter control sequences out of 15000+600000
  475085 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -952,7 +952,7 @@ wesome5/FontAwesome5Free-Solid.pfb><C:/Users/Ivan/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Ivan/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Ivan/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb>
-Output written on "cover_letter_software 2.pdf" (1 page, 98029 bytes).
+Output written on "cover_letter_software 2.pdf" (1 page, 97698 bytes).
 PDF statistics:
  57 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)

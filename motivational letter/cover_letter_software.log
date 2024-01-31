@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  27 JAN 2024 16:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  23 NOV 2023 04:44
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
-**./cover_letter_Psiquantum.tex
-(cover_letter_Psiquantum.tex
+**./cover_letter_software.tex
+(cover_letter_software.tex
 LaTeX2e <2022-11-01>
 L3 programming layer <2022-11-02>
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncv.cls
@@ -780,8 +780,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 48.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 48.
- (cover_letter_Psiquantum.aux)
-\openout1 = `cover_letter_Psiquantum.aux'.
+ (cover_letter_software.aux)
+\openout1 = `cover_letter_software.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
@@ -882,9 +882,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 48.
-(cover_letter_Psiquantum.out) (cover_letter_Psiquantum.out)
+(cover_letter_software.out) (cover_letter_software.out)
 \@outlinefile=\write4
-\openout4 = `cover_letter_Psiquantum.out'.
+\openout4 = `cover_letter_software.out'.
 
 
 
@@ -892,7 +892,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/bx/sl' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 59.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 80.
+nput line 78.
 
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
 efree2.fd)
@@ -901,19 +901,19 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 80.
+nput line 78.
 
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
 efree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 80.
+ input line 78.
 
 (C:\Users\Ivan\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
 ebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> n
 ot available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 80.
+n input line 78.
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -924,22 +924,21 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 
 
 {C:/Users/Ivan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(cover_letter_Psiquantum.aux)
+(cover_letter_software.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `cover_letter_Psiquantum.out' has not changed
-.
+Package rerunfilecheck Info: File `cover_letter_software.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25724 strings out of 475306
- 504899 string characters out of 2775305
- 837124 words of memory out of 3000000
+ 25728 strings out of 475306
+ 504901 string characters out of 2775305
+ 836117 words of memory out of 3000000
  46737 multiletter control sequences out of 15000+600000
- 474884 words of font info for 56 fonts, out of 8000000 for 9000
+ 475018 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,12n,122p,1022b,515s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 129i,12n,122p,1020b,515s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5
 brands0.enc}{C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontaw
 esome5/fa5free1.enc} <C:\Users\Ivan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
@@ -952,7 +951,7 @@ wesome5/FontAwesome5Free-Solid.pfb><C:/Users/Ivan/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Ivan/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Ivan/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb>
-Output written on cover_letter_Psiquantum.pdf (1 page, 98609 bytes).
+Output written on cover_letter_software.pdf (1 page, 97689 bytes).
 PDF statistics:
  57 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  7 MAR 2023 17:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  16 NOV 2023 20:46
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1094,67 +1094,67 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 119.
+(Font)              using `OT1/cmss/bx/n' instead on input line 120.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 119.
+(Font)              using `OT1/cmss/bx/n' instead on input line 120.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 123.
+(Font)              using `OT1/cmss/bx/n' instead on input line 127.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 123.
+(Font)              using `OT1/cmss/bx/n' instead on input line 127.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 142.
+(Font)              using `OT1/cmss/bx/n' instead on input line 146.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 142.
+(Font)              using `OT1/cmss/bx/n' instead on input line 146.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 147.
+(Font)              using `OT1/cmss/bx/n' instead on input line 151.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 147.
+(Font)              using `OT1/cmss/bx/n' instead on input line 151.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 150.
+(Font)              using `OT1/cmss/bx/n' instead on input line 154.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 159.
+(Font)              using `OT1/cmss/bx/n' instead on input line 163.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 168.
+(Font)              using `OT1/cmss/bx/n' instead on input line 172.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 168.
+(Font)              using `OT1/cmss/bx/n' instead on input line 172.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 176.
+(Font)              using `OT1/cmss/bx/n' instead on input line 180.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 176.
+(Font)              using `OT1/cmss/bx/n' instead on input line 180.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 182.
+(Font)              using `OT1/cmss/bx/n' instead on input line 186.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 182.
+(Font)              using `OT1/cmss/bx/n' instead on input line 186.
 
 [1
 
@@ -1164,11 +1164,11 @@ Package rerunfilecheck Info: File `CV_Ivan_Ogloblin.out' has not changed.
 (rerunfilecheck)             Checksum: 8195FF3BBB4E62B685A63EBFC359EB9D;440.
  ) 
 Here is how much of TeX's memory you used:
- 26951 strings out of 475306
- 527207 string characters out of 2775305
- 886352 words of memory out of 3000000
+ 26953 strings out of 475306
+ 527225 string characters out of 2775305
+ 887352 words of memory out of 3000000
  47885 multiletter control sequences out of 15000+600000
- 484120 words of font info for 79 fonts, out of 8000000 for 9000
+ 484185 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,11n,122p,1015b,472s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Ivan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5
@@ -1185,9 +1185,9 @@ KTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Ivan/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Ivan/AppData
 /Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/Iva
 n/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplr.pfb>
-Output written on CV_Ivan_Ogloblin.pdf (1 page, 171022 bytes).
+Output written on CV_Ivan_Ogloblin.pdf (1 page, 171444 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
+ 93 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
  24117 words of extra memory for PDF output out of 24883 (max. 10000000)
 
