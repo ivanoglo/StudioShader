@@ -1,4 +1,4 @@
-<img align="left" src="Me.jpg" width="320" /> 
+<img align="left" src="Me2.jpg" width="320" /> 
 
 ```csharp
 StudioShader@github
