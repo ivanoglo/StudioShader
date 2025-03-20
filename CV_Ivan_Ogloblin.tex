@@ -1,25 +1,21 @@
-\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+\documentclass[11pt,a4paper,sans]{moderncv}
+\usepackage[version=3]{mhchem}
+\moderncvcolor{blue}
+\moderncvstyle{banking}
+% \usepackage[utf8]{inputenc}
+% \usepackage{bookmark}
+% \usepackage{hyperref}
 \usepackage{lmodern}
-% moderncv themes
-\moderncvstyle{banking}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
-\moderncvcolor{blue}                              % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
-%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage[scale=0.9,top=1.5cm, bottom=0.5cm]{geometry}
+\setlength{\footskip}{40.8pt}
+
+% moderncv configuration
+                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+% \moderncvcolor{blue}                              % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 \nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
 
-% character encoding
-\usepackage[utf8]{inputenc}
-%\usepackage{hyperref}
-%\usepackage{pdfpages}
-% if you are not using xelatex ou lualatex, replace by the encoding you are using
-%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
-\usepackage{multicol}
-
-\usepackage{xcolor}
-% adjust the page margins
-\usepackage[scale=0.9,top=1.5cm, bottom=0.5cm]{geometry}
-% \usepackage[scale=0.75]{geometry}
-%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
-%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
 \usepackage{xpatch}
 \xpatchcmd\cventry{,}{}{}{}
 
@@ -95,6 +91,9 @@
 	
 	\cventry{}{}{Simulation of photonic quantum computing}{2023\vspace{-1.0em}}{}{
 		Developed a web service dedicated to simulation of linear and non-linear optics for quantum computational models using Python and Django. Used \href{https://strawberryfields.ai/}{\textcolor{blue}{Strawberry fields}} as an underlying engine. (\href{https://github.com/StudioShader/SF_Composer}{\textcolor{blue}{github}})
+	}
+	\cventry{}{}{Master's Thesis}{2023-2025\vspace{-1.0em}}{}{
+		Investigated a photonic-based model (Fusion-Based Quantum Computing) to implement a topological quantum memory. Explored error models and performed threshold estimations using matching-based decoders on FBQC codes. Demonstrated how logical qubits can be reliably stored by repeatedly fusing resource states, enabling a scalable approach to fault-tolerant quantum memory.
 	}
 	\cventry{}{}{Undergraduate Thesis}{2022-2023\vspace{-1.0em}}{}{
 		I did research on optimal schemes of entangling transformations in linear quantum optics using a genetic algorithm with GPUs on Pytorch. New schemes were obtained for finding the maximum entangled state, as well as for implementing gates equivalent to CX in the KLM protocol.
